@@ -1,0 +1,11 @@
+D:\Develop\DevelopSoft\DevelopNetCore\CopyFiles\bin\Debug\netcoreapp2.0\CopyFiles.deps.json
+D:\Develop\DevelopSoft\DevelopNetCore\CopyFiles\bin\Debug\netcoreapp2.0\CopyFiles.runtimeconfig.json
+D:\Develop\DevelopSoft\DevelopNetCore\CopyFiles\bin\Debug\netcoreapp2.0\CopyFiles.runtimeconfig.dev.json
+D:\Develop\DevelopSoft\DevelopNetCore\CopyFiles\bin\Debug\netcoreapp2.0\CopyFiles.dll
+D:\Develop\DevelopSoft\DevelopNetCore\CopyFiles\bin\Debug\netcoreapp2.0\CopyFiles.pdb
+D:\Develop\DevelopSoft\DevelopNetCore\CopyFiles\obj\Debug\netcoreapp2.0\CopyFiles.csprojAssemblyReference.cache
+D:\Develop\DevelopSoft\DevelopNetCore\CopyFiles\obj\Debug\netcoreapp2.0\CopyFiles.csproj.CoreCompileInputs.cache
+D:\Develop\DevelopSoft\DevelopNetCore\CopyFiles\obj\Debug\netcoreapp2.0\CopyFiles.AssemblyInfoInputs.cache
+D:\Develop\DevelopSoft\DevelopNetCore\CopyFiles\obj\Debug\netcoreapp2.0\CopyFiles.AssemblyInfo.cs
+D:\Develop\DevelopSoft\DevelopNetCore\CopyFiles\obj\Debug\netcoreapp2.0\CopyFiles.dll
+D:\Develop\DevelopSoft\DevelopNetCore\CopyFiles\obj\Debug\netcoreapp2.0\CopyFiles.pdb
